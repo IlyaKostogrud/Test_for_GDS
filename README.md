@@ -1,2 +1,2 @@
 # Test_for_GDS
-Test wiht websockets, files dowload on URL
+Test wiht websockets, files dowloading by URL
