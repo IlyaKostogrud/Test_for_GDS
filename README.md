@@ -10,5 +10,5 @@ Instruction (RUS)
 
 Запустить ws_server.py.
 Запустить ws_client.py.
-Файлы из списка url_list(ws_server.py) скачаются в папку с файлом ws_client.py
+Файлы из списка url_list(ws_server.py) скачаются в папку указанную в файле dl_options_config.py
 Повторно запустить ws_client.py.
